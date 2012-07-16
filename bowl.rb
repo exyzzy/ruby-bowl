@@ -1,3 +1,7 @@
+# bowl.rb bowling scoring program in ruby
+# Author: Eric Lang
+# http://www.exyzzy.com
+
 class States
   def initialize
     @curState = 0
